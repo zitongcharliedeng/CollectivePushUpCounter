@@ -1,3 +1,14 @@
+# END GOAL FEATURES #
+- Accounts for each person
+- Leaderboard feature with user names
+- Add (and take away ONLY UR OWN if by accident(admins can take away anyone's)) pushups to a collective counter easily
+- Profile pictures
+- Integrate into discord bot (?)
+- Calender feature with contribution levels for each person AND collective one
+- Projected finish time according to push up rate so far
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
